@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-base.watende",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Communication","Development"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/onyxadm/wAtendeApi"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/onyxadm/wAtendeApi"
+			}
+		]
+	}
+}
